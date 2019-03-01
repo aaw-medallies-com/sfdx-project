@@ -1,0 +1,17 @@
+[
+    [
+        "/Users/aaw/my_sfdx_project/sfdx-maria",
+        {
+            "state": "n",
+            "sourcePath": "/Users/aaw/my_sfdx_project/sfdx-maria",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1549383760503,
+            "changeTime": 1550084578273,
+            "contentHash": "d000a715b084edf21bbfbcb8dba3c3c0c969c081",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
